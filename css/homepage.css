@@ -1,0 +1,41 @@
+/*******************************
+            Global
+*******************************/
+
+html {
+  font-size: 14px;
+}
+
+
+/*******************************
+            Global
+*******************************/
+/*
+Head
+*/
+.emerald {
+  background-color: #2ecc71;
+}
+/*--------------
+    Footer
+---------------*/
+
+#home .footer.segment {
+  background-color: #000000;
+  padding: 3rem 0rem;
+}
+
+
+/*******************************
+          Responsive
+*******************************/
+
+
+
+/* connect */
+.networks  a.facebook { display:block; width: 120px; height: 33px; text-indent: -9999px; background: transparent url(../images/btn/btn_facebook.gif) top left no-repeat; }
+.networks  a.facebook:hover { background-position: top right; }
+.networks  a.twitter { display:block; width: 107px; height: 33px; text-indent: -9999px; background: transparent url(../images/btn/btn_twitter.gif) top left no-repeat; }
+.networks  a.twitter:hover { background-position: top right; }
+.networks  a.pinterest { display:block; width: 130px; height: 33px; text-indent: -9999px; background: transparent url(../images/btn/btn_pinterest.gif) top left no-repeat; }
+.networks  a.pinterest:hover { background-position: top right; }
